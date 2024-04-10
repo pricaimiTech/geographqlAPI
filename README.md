@@ -1,4 +1,4 @@
-# Automação de Testes para a API Geograph [![Newman run](https://github.com/pricaimiTech/fakestoreapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pricaimiTech/fakestoreapi/actions/workflows/main.yml)
+# Automação de Testes para a API Geograph [![Newman run](https://github.com/pricaimiTech/geographqlAPI/actions/workflows/main.yml/badge.svg)](https://github.com/pricaimiTech/geographqlAPI/actions/workflows/main.yml)
 
 Teste de API Rest do manual a CI/CD
 
